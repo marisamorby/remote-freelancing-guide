@@ -1,10 +1,10 @@
 # intro.md
 
-Well hello there! My name is Marisa Morby and I'm using this book to help you learn how to become a freelancer. That's a pretty standard book these days, I know, but this is different because I'm not some 20 year-old talking at you about freelancing in web development, after starting to code when I was 8.
+Well hello there! My name is Marisa Morby and I wrote this book to help you learn how to become a freelancer. That's a pretty standard book these days, I know, but this is a little different because I'm not some 20 year-old talking at you about freelancing in web development, after learning to code when I was 8.
 
 In fact, I started doing this with _no_ technical experience other than how to work a computer. I'm talking zero knowledge here. And when I first started freelancing, it was after 5 years in corporate America as an HR Manager. 
 
-That means my network of freelancers consisted of one person.
+My network of fellow freelancers consisted of one person.
 
 And, just because I can be masochistic, I thought, fuck it, I'm going to change careers, too. I loved the psychology and human interaction of HR, but I _hated_ all the rules and policies and regulations. 
 
@@ -26,14 +26,14 @@ A UX Consultant and Copywriter.
 
 I did all of this while traveling around the world (like I said, masochist), and only worked with clients remotely.
 
-So, all that being said, I'm writing this guide so that you can bypass some of the mistakes I made when I started out.
+So, all that being said, these are some of the main things I wish I'd known when I was startng out, and I'm writing this guide so that you can bypass some of the mistakes I made.
 
 
 ## What this guide is and isn't
   This guide is designed to help you understand how to get your first client, complete the project, and get referrals for more work, all while working remotely.
 
-  This isn't a guide to help you decide what service/product to offer, or a resource for business advice or legal advice. There are many people that are much better at these things than me, but I did include a **list of resources** at the back to help you out. 
+  This isn't a guide to help you decide what service to offer, or a resource for business advice or legal advice. There are many people that are much better at these things than me, but I did include a **list of resources** at the back to help you out. 
 
-Happy reading!
+Thanks so much, and happy reading!
 
 If you've got any questions or need help, you can always email me at me@marisamorby.com. I like hearing from people and I always respond!
