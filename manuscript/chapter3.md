@@ -3,7 +3,7 @@
 ## Finding Your First Client
 Finding your first client feels a little bit like magic. You know people have done it, but you don't really get how. I spent a lot of time reading articles and asking people, how do you do it? How do you get the first client? It makes no sense!
 
-### Referrals
+## Referrals
 Your best bet, almost always, will be a referral. Your friends might not need your service, but they surely must know one person that does. And that's all you need — one. 
 
 So, don't be shy. Email and call friends, family, previous co-workers, friends from events, your childhood friend's sister's best friend (true story). My point is, it's easier to start with people who already know you, or know of you.
@@ -18,7 +18,7 @@ Mention it when you meet for coffee, send old friends a message or text, be sure
 
 You want to stay top of mind so that when your friend's fried says, "I'm having a lot of trouble with the ads I'm writing for my art shop," your friend can immediately say, "Hey, my friend writes ads and website copy. She might be able to help you. You want her number?" 
 
-### Online Groups
+## Online Groups
 We talked a little earlier about how to get started in online groups, introduce yourself, and start participating. Once you've made this a habit, you can leverage these online relationships into client work.
 
 You've probably already asked questions in the group, and also offered your insight on certain issues. So how can you take this even further?
@@ -29,7 +29,7 @@ One, by giving away free helpful information, you've called upon the social norm
 
 Secondly, by telling people how to solve their problem, you show that you're an expert. You've already shown that you can think through this issue, and have created a solution. Now, they can take that information and use it themselves, or hire someone else, but it's pretty unrealistic that this will happen since you clearly know what you're doing. Think of it this way, if you ask someone how to create a blog, and they tell you the process, you can see that of course you _could_ do it, but chances are you'll just hire that person to do it for you. 
 
-### Guest Posting
+## Guest Posting
 Guest posting also offers a great opportunity to find clients. It does two things for you. It serves as social proof that you know what you're doing, because a third party has looked at your work and said, "Oh, this person actually know what they're talking about." In addition, it's like a piece that can be used to show how you think, your creativity, and how you put things together.
 
 To get the most out of guest posting, you really need to interact with the people who are seeing your work. That means sharing what you've written on social media, replying to comments, and asking thought provoking questions that get conversations started.
@@ -38,7 +38,7 @@ With guest posting, people will often see your work and come to you after seeing
 
 So make sure that you seek out projects on sites that you enjoy visiting, have a really interactive community, a large audience, or that you use yourself as a resource. This makes it much easier to create posts or projects because you're naturally drawn to the information on the site.
 
-### Warm Pitches... not cold pitches
+## Warm Pitches... not cold pitches
 Lastly, you can use warm pitches to find clients. Now, I personally would only do this if there's a company or product that really stand out to you and you're _dying_ to work for them. 
 
 I say that because these types of pitches require a lot of upfront work on your part if you want them to work out. 
