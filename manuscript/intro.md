@@ -1,5 +1,7 @@
 # intro.md
 
+**Written in 2016**
+
 Well hello there! My name is Marisa Morby and I wrote this book to help you learn how to become a freelancer. That's a pretty standard book these days, I know, but this is a little different because I'm not some 20 year-old talking at you about freelancing in web development, after learning to code when I was 8.
 
 In fact, I started doing this with _no_ technical experience other than how to work a computer. I'm talking zero knowledge here. And when I first started freelancing, it was after 5 years in corporate America as an HR Manager. 
